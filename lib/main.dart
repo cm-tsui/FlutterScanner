@@ -5,6 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_scanner/qr_code_scanner.dart';
 
+
 void main() => runApp(const MaterialApp(home: MyHome()));
 
 class MyHome extends StatelessWidget {
